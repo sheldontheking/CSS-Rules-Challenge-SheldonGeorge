@@ -1,0 +1,18 @@
+img {
+  border: 5px solid coral;
+  box-shadow: 10px 10px;
+  width: 150px;
+  height: 150px;
+}
+
+body {
+  background-image: linear-gradient(coral, lightcoral);
+  font-family: Fantasy;
+}
+
+p{
+  font-family: Cursive;
+}
+hr{
+  border: 5px solid lightcoral;
+}
